@@ -28,4 +28,5 @@
 <img width="1470" alt="plotly pie chart" src="https://github.com/user-attachments/assets/b3215c38-73c7-4a6d-8544-cd11492a508d">
 
 - Interactive Line Chart: Content Added by Release Year
-<img width="1470" alt="plotly interactive line chart" src="https://github.com/user-attachments/assets/980bbf54-f653-422c-abfe-61d3d496c7d1">
+<img width="1470" alt="plotly interactive line chart" src="https://github.com/user-attachments/assets/0c306474-14a4-4350-b51b-acc65439f6de">
+
